@@ -1,7 +1,5 @@
-Aprendizado do Git/Github
+      Aprendizado do Git/Github
 
-
-      
     •  Criação da Chave SSH
       
     •  Comandos Básicos
@@ -18,4 +16,4 @@ Aprendizado do Git/Github
       
     • Link Git: Git – Downloads (git-scm.com) 
       
--
+
