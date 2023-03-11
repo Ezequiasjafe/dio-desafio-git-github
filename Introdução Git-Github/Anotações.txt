@@ -1,22 +1,21 @@
 Aprendizado do Git/Github
 
 
-
       
-    •  Criação da Chave SSH
+    â€¢  CriaÃ§Ã£o da Chave SSH
       
-    •  Comandos Básicos
+    â€¢  Comandos BÃ¡sicos
       
-    • Iniciando o Git e Primeiro Commit
+    â€¢ Iniciando o Git e Primeiro Commit
       
-    • Git Init: Iniciando o Primeiro Reposítorio
+    â€¢ Git Init: Iniciando o Primeiro ReposÃ­torio
       
-    • Enviando arquivos do Ambiente local para o Ambiente Remoto
+    â€¢ Enviando arquivos do Ambiente local para o Ambiente Remoto
       
-    • Git Clone: Clonar um Repositório
+    â€¢ Git Clone: Clonar um RepositÃ³rio
       
-    • Tópicos, Fundamentos e origem sobre Git/Github
+    â€¢ TÃ³picos, Fundamentos e origem sobre Git/Github
       
-    • Link Git: Git – Downloads (git-scm.com) 
+    â€¢ Link Git: Git â€“ Downloads (git-scm.com) 
       
 -
