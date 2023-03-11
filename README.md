@@ -1,3 +1,3 @@
 # dio-desafio-git-github
-- Desafio projeto-primeiro repositório
-- Aprendizado sobre a introdução ao Git/Github
+- Desafio projeto-primeiro Repositório
+- Aprendizado sobre a Introdução ao Git/Github
